@@ -76,7 +76,7 @@
     "ethereumjs-util": "^7.1.5",
     "forge-std": "foundry-rs/forge-std",
     "keccak256": "^1.0.6",
-    "merkletreejs": "^0.2.32",
+    "merkletreejs": "^0.4.1",
     "solc": "0.8.9",
     "solidity-docgen": "^0.5.16",
     "typescript-solidity-merkle-tree": "^0.3.0"
